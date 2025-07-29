@@ -14,4 +14,4 @@ pip install -r requirements.txt
 streamlit run mandala_app.py
 
 # start face recognition app
-treamlit run vision_poet_app.py     
+streamlit run vision_poet_app.py     
